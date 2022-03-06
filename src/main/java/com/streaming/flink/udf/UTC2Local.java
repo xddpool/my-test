@@ -12,6 +12,10 @@ public class UTC2Local extends ScalarFunction {
         Arrays.asList("1", "2", "3").stream()
                 .forEach(System.out::println);
         System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world");
         return new Timestamp(timestamp);
     }
 
