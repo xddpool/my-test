@@ -16,6 +16,10 @@ public class UTC2Local extends ScalarFunction {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
+        System.out.println("hello world1");
+        System.out.println("hello world1");
+        System.out.println("hello world1");
+        System.out.println("hello world1");
         return new Timestamp(timestamp);
     }
 
